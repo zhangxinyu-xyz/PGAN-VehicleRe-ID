@@ -1,0 +1,13 @@
+conda install pytorch==1.0.0 torchvision==0.2.1 cuda80 -c pytorch
+pip install yacs
+pip install h5py
+pip install -U scipy==1.2.0
+pip install nose
+pip install cython
+pip install xmltodict
+pip install pandas
+pip install pytorch-ignite==0.2.0
+pip install tensorboardX
+
+
+
