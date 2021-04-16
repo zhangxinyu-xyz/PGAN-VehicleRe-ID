@@ -138,7 +138,7 @@ or Arxiv version:
 
 If you have any questions, please do not hesitate to contact us.
 
-[Xinyu Zhang](https://github.com/zhangxinyu-xyz)
+[Xinyu Zhang](https://zhangxinyu-xyz.github.io/)
 
 [Rufeng Zhang](https://github.com/zzzzzz0407)
 
