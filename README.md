@@ -2,6 +2,8 @@
 
 This code is for the paper Part-Guided Attention Learning for Vehicle Instance Retrieval. (TITS2020)
 
+Note: this paper is also known as Part-Guided Attention Learning for Vehicle Re-Identification in Arxiv version.
+
 [[PDF]](https://ieeexplore.ieee.org/document/9244142)
 [[Arxiv]](https://arxiv.org/abs/1909.06023v4)
 [[Project]](https://github.com/zhangxinyu-xyz/PGAN-VehicleRe-ID-self/)
