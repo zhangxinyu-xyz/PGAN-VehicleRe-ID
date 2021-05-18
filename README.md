@@ -30,7 +30,7 @@ Note: this paper is also known as Part-Guided Attention Learning for Vehicle Re-
 
     a. Download datasets: [VeRi](https://github.com/JDAI-CV/VeRidataset), [PKU-VehicleID](https://pkuml.org/resources/pku-vehicleid.html), [VRIC](https://qmul-vric.github.io/), [VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild). Move them to ```$PGAN/vehicle_data/```.
 
-    b. Download masks of part regions: [VeRi](https://github.com/JDAI-CV/VeRidataset), [PKU-VehicleID](https://pkuml.org/resources/pku-vehicleid.html), [VRIC](https://qmul-vric.github.io/), [VERI-Wild](https://github.com/PKU-IMRE/VERI-Wild). Move them to ```$PGAN/vehicle_data/masks/```.
+    b. Download masks of part regions: [VeRi](https://drive.google.com/file/d/1dTo7RerNsYzfAasjnE34hr64ZHTJxKwC/view?usp=sharing), [PKU-VehicleID](https://drive.google.com/file/d/1VHMGg6eAmCZg6NhNa9-tCNgJsiSi5Ifj/view?usp=sharing), [VRIC](https://drive.google.com/file/d/17XkSzSKcsZ0BJBS_ZsTaCgbnqfDw2YJI/view?usp=sharing), [VERI-Wild](https://drive.google.com/file/d/1VXr2pVy-2KrnK8i9qduHk6oS0XbPAgpy/view?usp=sharing). Move them to ```$PGAN/vehicle_data/masks/```.
 
     c. Decompress all datasets. Insure the data folder like the following structure (otherwise the data path should be modified in ```$PGAN/data/datasets/[DATANAME].py```):
 ```
